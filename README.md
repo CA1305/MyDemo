@@ -1,4 +1,4 @@
 # MyDemo
 This is my first Git repository.
 <br>
-Author_Akshay Chavan
+Author:Akshay Chavan
