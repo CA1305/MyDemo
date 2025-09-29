@@ -2,4 +2,5 @@
 This is my first Git repository.
 <br>
 Author : Akshay Chavan
-Add blue code 
+<br>
+This repository is for practicing the GitHub Flow
